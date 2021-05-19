@@ -1,0 +1,74 @@
+h1 {
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  h2 {
+    color: #fc9230;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 1;
+  }
+  
+  h3 {
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: left;
+    padding-right: 10 px;
+  }
+  h4 {
+    color: black;
+    font-family: "Raleway", sans-serif;
+    margin: 0 auto;
+    font-size: 20px;
+  }
+  ul {
+    margin: 0 0 10px;
+    padding: 0;
+    padding-bottom: 20px;
+  }
+  li {
+    color: #7c7c7c;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 1.25;
+    list-style: none;
+  }
+  
+  img.animated-gif {
+    width: 150px;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  .temperature {
+    color: rgb(33, 33, 33);
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 1;
+  }
+  
+  .search-form {
+    margin-bottom: 20px;
+    float: center;
+  }
+  
+  .weather-app {
+    border: 3px solid #f59f67;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 600px;
+  }
+  
+  .units {
+    position: relative;
+    top: -25px;
+  }
+  
